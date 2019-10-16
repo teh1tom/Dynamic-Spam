@@ -1,0 +1,9 @@
+c:\users\lockdown\documents\visual studio 2015\Projects\Dynamic-Spam\Dynamic-Spam\bin\Debug\Dynamic-Spam.exe.config
+c:\users\lockdown\documents\visual studio 2015\Projects\Dynamic-Spam\Dynamic-Spam\bin\Debug\Dynamic-Spam.exe
+c:\users\lockdown\documents\visual studio 2015\Projects\Dynamic-Spam\Dynamic-Spam\bin\Debug\Dynamic-Spam.pdb
+c:\users\lockdown\documents\visual studio 2015\Projects\Dynamic-Spam\Dynamic-Spam\obj\Debug\Dynamic-Spam.csprojResolveAssemblyReference.cache
+c:\users\lockdown\documents\visual studio 2015\Projects\Dynamic-Spam\Dynamic-Spam\obj\Debug\Dynamic_Spam.DSMain.resources
+c:\users\lockdown\documents\visual studio 2015\Projects\Dynamic-Spam\Dynamic-Spam\obj\Debug\Dynamic_Spam.Properties.Resources.resources
+c:\users\lockdown\documents\visual studio 2015\Projects\Dynamic-Spam\Dynamic-Spam\obj\Debug\Dynamic-Spam.csproj.GenerateResource.Cache
+c:\users\lockdown\documents\visual studio 2015\Projects\Dynamic-Spam\Dynamic-Spam\obj\Debug\Dynamic-Spam.exe
+c:\users\lockdown\documents\visual studio 2015\Projects\Dynamic-Spam\Dynamic-Spam\obj\Debug\Dynamic-Spam.pdb
